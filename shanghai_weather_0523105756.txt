@@ -1,0 +1,32 @@
+Shanghai weather snapshot
+
+Location: Shanghai, China
+Date: 2026-05-23
+Captured at: 2026-05-23 10:57:56 CST (UTC+08:00)
+Source: wttr.in / World Weather Online
+
+Current conditions:
+- Weather: Cloudy
+- Temperature: 27 C
+- Feels like: 30 C
+- Humidity: 74%
+- Wind: SW 4 km/h
+- Pressure: 1007 hPa
+- Visibility: 10 km
+- Precipitation: 0.0 mm
+
+Today forecast:
+- High: 29 C
+- Low: 21 C
+- Average: 25 C
+- Rain chance: 0% across reported hourly forecast
+
+Hourly forecast:
+- 00:00 Overcast, 22 C, feels like 22 C, humidity 88%, wind SE 15 km/h, rain 0%, precipitation 0.0 mm
+- 03:00 Overcast, 22 C, feels like 22 C, humidity 91%, wind SE 13 km/h, rain 0%, precipitation 0.0 mm
+- 06:00 Cloudy, 22 C, feels like 25 C, humidity 92%, wind SSE 10 km/h, rain 0%, precipitation 0.0 mm
+- 09:00 Cloudy, 27 C, feels like 29 C, humidity 74%, wind SW 4 km/h, rain 0%, precipitation 0.0 mm
+- 12:00 Partly Cloudy, 29 C, feels like 32 C, humidity 62%, wind NE 8 km/h, rain 0%, precipitation 0.0 mm
+- 15:00 Cloudy, 28 C, feels like 30 C, humidity 69%, wind E 15 km/h, rain 0%, precipitation 0.0 mm
+- 18:00 Partly Cloudy, 26 C, feels like 28 C, humidity 77%, wind ESE 17 km/h, rain 0%, precipitation 0.0 mm
+- 21:00 Partly Cloudy, 24 C, feels like 26 C, humidity 87%, wind ESE 18 km/h, rain 0%, precipitation 0.0 mm
